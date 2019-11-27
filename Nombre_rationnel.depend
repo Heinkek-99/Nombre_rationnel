@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574843857 source:c:\users\heidy kengne\documents\github\nombre_rationnel\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1574844867 source:c:\users\heidy kengne\documents\github\nombre_rationnel\nombre_rationnel.c
+	<stdlib.h>
+	<stdio.h>
+
